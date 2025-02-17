@@ -6,7 +6,7 @@ Question: Given the power as P=100µw, Perform AC, DC and Transient analysis for
 ![Capture](https://github.com/user-attachments/assets/502293a1-3c00-4db0-84ed-ca37947585df)
 
 ### Procedure:
-BY using the power formula P=V*I 
+BY using this formula P=V*I 
 we get the drain current as,
 Id=5.55e-005A
 
@@ -95,16 +95,17 @@ The below graph shows the output of transient analysis.
 ![image](https://github.com/user-attachments/assets/c0f8f7c7-ed03-4867-8433-047d7c474862)
 
 ### RESULT:
-* By varying the channel dimensions (L,W) of both MOSFET (M1 & M2), The desired currnt was achived at
-   1. M1: L=500nm, W=950nm.
-   2. M2: L=300nm, W=1020nm.
-* The gain is 3.8dB and phase shift  which is nealy 180 degree align with theoretical expectations.
-* The circuit responds effectively to input variations, indicating stable operation.
+
+* By adjusting the channel dimensions (L, W) of both MOSFETs (M1 & M2), the desired current was successfully achieved at:
+* M1: L = 500nm, W = 950nm
+* M2: L = 300nm, W = 1020nm
+* The circuit exhibited a gain of 3.8 dB with a phase shift close to 180 degrees, aligning well with theoretical expectations.
+* The circuit responded efficiently to input variations, indicating stable operation and reliable performance.
+020nm
 
 ### INFERENCE:
-* By DC sweep analysis, get the input DC voltsge.
-* By varying the MOSFET dimensions, Get the calculated drain currnt value in simulation.
-* Vary both MOSFET(M1 & M2) to get the calculated drain current.
-* Set the AC amplitude as 1 in the AC analysis.
-* In DC sweep analysis we get the VTC curve at output.
-*
+* The DC sweep analysis provided the input DC voltage.
+* By adjusting the MOSFET dimensions, the corresponding drain current values were calculated during simulation.
+* Both M1 and M2 were varied to achieve the desired drain current.
+* For AC analysis, the AC amplitude was set to 1, ensuring proper evaluation.
+* The DC sweep analysis also provided the Voltage Transfer Characteristic (VTC) curve at the output.
