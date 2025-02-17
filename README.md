@@ -18,7 +18,7 @@ Go to simulate, Select the dc output print and the run the simulation.
 
 This below figure shows the output of dc analysis
  
-  ![image](https://github.com/user-attachments/assets/14d1463b-87b5-4a05-9cf5-652350833265) 
+  ![image](https://github.com/user-attachments/assets/09098ac7-1847-4f41-a038-93d3794c2dca) 
 
 
 #### 2. AC Analysis
@@ -80,7 +80,7 @@ The length and width of the NMOS and PMOS as shown in the below figure
 #### 2. DC Analysis
 Go to simulate, Select the dc output print and the run the simulation.
 
-![image](https://github.com/user-attachments/assets/daef7b7e-e64c-4510-8f23-e55121daa510)
+![image](https://github.com/user-attachments/assets/0ed1a6cd-b2f1-46b7-b154-2f871c89f201)
 
 #### 3. AC Analysis
 Go to simulate, Select the ac analysis, Give the values as shown below and run the simulation.
