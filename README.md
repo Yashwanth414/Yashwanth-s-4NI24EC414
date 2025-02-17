@@ -18,7 +18,7 @@ Go to simulate, Select the dc output print and the run the simulation.
 
 This below figure shows the output of dc analysis
  
-  ![image](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG_20250217_222748.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-02-17T16%3A57%3A57.381Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F2e724f8e1c834fdf%2FIMG_20250217_222748.jpg%3FExpires%3D1834419477%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DZehU0Hbl1~whLh0ChLOUgnHhuaibUgLZAFLmWIU-vq~P7Vrdvzbp2ONsPiJKzXekQ00ZqIeuz4GfJ88TEvxxyu6cJlYSup4X3v1BSseqc05oikZCEo7aAlfPp5bT5It-1z47vHNKELu-LdYt7jgiCd0vq-KtcYkcz1cRb4nTQWiGOQshwA2ZnW65kWz~Vzc24or3s9lkJygUkjWaAazJ1SETgXKHwTAAf3XD04vzs0TgEJfeAAb5WwaueqYy2QQMSdoZqj44M~5Jn14wXyMJVB4oW71TUJfVVTN3dg2YKUm0mEwMAOUDrpgBFMuj~zRURptpahrmd0BdN~Zr7lxP4A__%22%7D)
+  ![image](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22IMG_20250217_222748.jpg%22%2C%22type%22%3A%22image%2Fjpeg%22%2C%22signedurl_expire%22%3A%222028-02-17T16%3A57%3A57.381Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2F2e724f8e1c834fdf%2FIMG_20250217_222748.jpg%3FExpires%3D1834419477%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DZehU0Hbl1~whLh0ChLOUgnHhuaibUgLZAFLmWIU-vq~P7Vrdvzbp2ONsPiJKzXekQ00ZqIeuz4GfJ88TEvxxyu6cJlYSup4X3v1BSseqc05oikZCEo7aAlfPp5bT5It-1z47vHNKELu-LdYt7jgiCd0vq-KtcYkcz1cRb4nTQWiGOQshwA2ZnW65kWz~Vzc24or3s9lkJygUkjWaAazJ1SETgXKHwTAAf3XD04vzs0TgEJfeAAb5WwaueqYy2QQMSdoZqj44M~5Jn14wXyMJVB4oW71TUJfVVTN3dg2YKUm0mEwMAOUDrpgBFMuj~zRURptpahrmd0BdN~Zr7lxP4A__%22%7D) 
 
 
 #### 2. AC Analysis
