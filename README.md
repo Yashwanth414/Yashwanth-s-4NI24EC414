@@ -6,17 +6,17 @@ Question: Given the power as P=100µw, Perform AC, DC and Transient analysis for
 ![Capture](https://github.com/user-attachments/assets/502293a1-3c00-4db0-84ed-ca37947585df)
 
 ### Procedure:
+
 BY using this formula P=V*I 
 we get the drain current as,
 Id=5.55e-005A
-
 
 #### 1. DC Analysis
 Go to simulate, Select the dc output print and the run the simulation.
 
 ![image](https://github.com/user-attachments/assets/ef924102-e523-4182-a514-e4dd73970e36)
 
-This figure shows the output of dc analysis
+This below figure shows the output of dc analysis
  
   ![image](https://github.com/user-attachments/assets/11e5cc97-94ec-408a-bf4c-c5c8ad44dd46)
 
@@ -32,22 +32,25 @@ Below graph shows the output of the AC analysis.
 
 #### 3. Transient Analysis
 Go to simulate, Set the stop time as 1ms and run the simulation.
-The below graph shows the output of transient analysis.
+
+This below graph shows the output of transient analysis.
 
 ![image](https://github.com/user-attachments/assets/eee3db42-638e-430f-9aaf-1dd7c4141f70)
 
 ### Result:
-* The calculated drain current from the DC analysis was 5.55e-005A, achieved with NMOS dimensions: Length = 175nm, Width = 178nm.
-* The circuit maintained stable performance across the tested frequency range.
-* The circuit responded well to variations and ensured stable operation
+
+* The DC analysis showed a drain current of 55.5 µA with NMOS size: Length = 175nm, Width = 178nm.
+* The circuit stayed stable across all tested frequencies.
+* It handled changes well and kept working reliably.
 
 ### Inference:
-* The drain current helps determine whether the MOSFET is operating in the saturation region.
-* The MOSFET's operating region depends on the gate-to-source voltage (VGS).
-* Coupling and bypass capacitors significantly influence the frequency response.
-* The gain of the circuit is directly influenced by the MOSFET parameters.
-* To perform the simulation, specific component library files must be added to the simulation software.
-* Adjusting the length and width of the MOSFET allows for precise control over the drain current in the simulation.
+
+* The drain current helps tell if the MOSFET is in the saturation region.
+* The MOSFET's behavior depends on the gate-to-source voltage (VGS).
+* Coupling and bypass capacitors affect how the circuit responds to different frequencies.
+* The circuit's gain depends on the MOSFET'S characteristics.
+* To run the simulation, you need to add certain library files to the software.
+* Changing the MOSFET's length and width lets you fine-tune the drain current in the simulation
 
 ### Circuit Diagram-2:
 
@@ -68,7 +71,7 @@ Now give the input as
 
 ![image](https://github.com/user-attachments/assets/bb1c591b-4d3a-4344-b2f2-80372af8567a)
 
-The length and width of the NMOS and PMOS tranistor as shown in the below figure
+The length and width of the NMOS and PMOS as shown in the below figure
 
 ![image](https://github.com/user-attachments/assets/283c39f0-5eea-4292-a833-91b5da308a6b)
 
@@ -96,16 +99,16 @@ The below graph shows the output of transient analysis.
 
 ### RESULT:
 
-* By adjusting the channel dimensions (L, W) of both MOSFETs (M1 & M2), the desired current was successfully achieved at:
-* M1: L = 500nm, W = 950nm
-* M2: L = 300nm, W = 1020nm
-* The circuit exhibited a gain of 3.8 dB with a phase shift close to 180 degrees, aligning well with theoretical expectations.
-* The circuit responded efficiently to input variations, indicating stable operation and reliable performance.
-020nm
+* By changing the size of the MOSFETs (M1 & M2), the desired current was achieved:
+M1: Length = 500nm, Width = 950nm
+M2: Length = 300nm, Width = 1020nm
+* The circuit had a gain of 3.8 dB and a phase shift close to 180 degrees, matching what was expected.
+* The circuit responded well to changes in input, showing stable and reliable performance.
 
 ### INFERENCE:
-* The DC sweep analysis provided the input DC voltage.
-* By adjusting the MOSFET dimensions, the corresponding drain current values were calculated during simulation.
-* Both M1 and M2 were varied to achieve the desired drain current.
-* For AC analysis, the AC amplitude was set to 1, ensuring proper evaluation.
-* The DC sweep analysis also provided the Voltage Transfer Characteristic (VTC) curve at the output.
+
+* The DC sweep analysis gave the input DC voltage.
+* By changing the MOSFET sizes, we calculated the drain current during the simulation.
+* Both M1 and M2 were adjusted to get the right drain current.
+* For the AC analysis, the AC amplitude was set to 1 to make sure the evaluation was correct.
+* The DC sweep also showed the Voltage Transfer Characteristic (VTC) curve at the output.
