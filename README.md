@@ -1,4 +1,4 @@
-##2. Basic differential amplifier
+## 2. Basic differential amplifier
 
 ### AIM :
 
