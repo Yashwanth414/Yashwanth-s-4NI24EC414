@@ -6,6 +6,7 @@ Design and Analyze the MOS differential amplifier circuitfor the following speci
 VDD=3.3V,P<3mw Vicm=1.65V Vocm 1.7V vp=0.5V
 
 
+
 ##  Components Required:
 
 N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
