@@ -21,6 +21,7 @@ circuits.
 ## Types of modes
 
 *Differential mode 
+
 *common mode
 
 ## Working principle
