@@ -49,7 +49,7 @@ Id1=Id2=0.45ma
 
 Iss =0.9ma 
 
-vicm=1.7v 
+vicm=1.65 
 
 ## Transient Analysis:
 
