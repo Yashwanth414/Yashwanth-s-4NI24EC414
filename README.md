@@ -44,6 +44,9 @@ A basic differential amplifier takes two input signals and finds the difference 
 ![1 dc](https://github.com/user-attachments/assets/81f1a6bc-ce27-4cad-91fc-81eb46208ea6)
 
 ## Transient Analysis 
+
+Input and output waveform
+
 ![1 tran](https://github.com/user-attachments/assets/d22409f5-3033-47df-8aef-822ff2992bc0)
 
 ## AC analysis
@@ -56,6 +59,9 @@ A basic differential amplifier takes two input signals and finds the difference 
 ![2 dc](https://github.com/user-attachments/assets/84f95b69-c839-404a-b2b1-7893370bdaa0)
 
 ## Transient Analysis
+
+Input and output waveform
+
 ![2 tran](https://github.com/user-attachments/assets/5739e54f-a00d-42e1-9954-dbeea4d5c244)
 
 ## AC Analysis
@@ -70,6 +76,9 @@ A basic differential amplifier takes two input signals and finds the difference 
 ![3 dc](https://github.com/user-attachments/assets/ebd12f4f-8907-4cd3-a58b-3ccc23dc0823)
 
 ## Transient Analysis
+
+Input and output waveform
+
 ![3 tran](https://github.com/user-attachments/assets/4615ba24-23eb-4a4a-b3a5-87e3bd53f047)
 
 ## AC Analysis
