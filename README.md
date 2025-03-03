@@ -10,7 +10,7 @@ VDD=3.3V,P<3mw Vicm=1.65V Vocm 1.7V vp=0.5V
 
 N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
 
-##Theory
+## Theory
 
 ## basic differential amplifier
 
