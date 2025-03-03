@@ -40,14 +40,17 @@ A basic differential amplifier takes two input signals and finds the difference 
 
 # CIRCUIT:1
 ![1 ckt](https://github.com/user-attachments/assets/a5c02d0c-7316-4828-8b79-21dbc66e33ad)
-Id1=Id2=0.45ma
-Iss =0.9ma
-vicm=1.7v
+
 
 ## DC Analysis:
 ![1 dc](https://github.com/user-attachments/assets/81f1a6bc-ce27-4cad-91fc-81eb46208ea6)
+Id1=Id2=0.45ma 
 
-## Transient Analysis 
+Iss =0.9ma 
+
+vicm=1.7v 
+
+## Transient Analysis:
 
 Input and output waveform
 
