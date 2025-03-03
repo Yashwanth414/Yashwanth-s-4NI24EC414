@@ -17,4 +17,13 @@ circuits.
 
 A basic differential amplifier takes two input signals and finds the difference between them.It makes this difference bigger while ignoring any common noise in both signals. If one input is higher, the output goes positive; if the other is higher, the output goes negative. If bothinputs are the same, the output is zero.
 
+#procedure
 
+* Open the LTspice software, merge the library file for getting accurate values of NMOS.
+* select the required components
+* change the mosfet length and width, adjusting the id
+* let do the dc analysis
+* then select the sine wave For AC analysis, we should do some changes like converting DC source to sinusoidal signal
+* then do transient analysis
+
+###CIRCUIT:1
