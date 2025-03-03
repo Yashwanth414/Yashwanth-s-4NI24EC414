@@ -39,7 +39,7 @@ A basic differential amplifier takes two input signals and finds the difference 
 
 
 
-#### CIRCUIT:2 
+### CIRCUIT:2 
 
 
 ### DC Analysis
