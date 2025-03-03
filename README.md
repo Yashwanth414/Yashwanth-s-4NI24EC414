@@ -10,10 +10,17 @@ VDD=3.3V,P<3mw Vicm=1.65V Vocm 1.7V vp=0.5V
 
 N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
 
+##Theory
+
 ## basic differential amplifier
 
 A differential amplifier amplifies the difference between two input signals. It rejects common noise and is used in signal processing. It is a key part of op-amps and instrumentation
 circuits.
+
+##Types of modes
+
+*Differential mode
+*common mode
 
 ## Working principle
 
@@ -27,6 +34,8 @@ A basic differential amplifier takes two input signals and finds the difference 
 * let do the dc analysis
 * then select the sine wave For AC analysis, we should do some changes like converting DC source to sinusoidal signal
 * then do transient analysis
+* run the simulation
+* verify the result
 
 # CIRCUIT:1
 ![1 ckt](https://github.com/user-attachments/assets/a5c02d0c-7316-4828-8b79-21dbc66e33ad)
