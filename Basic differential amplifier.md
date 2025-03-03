@@ -44,6 +44,7 @@ A basic differential amplifier takes two input signals and finds the difference 
 
 ## DC Analysis:
 ![1 dc](https://github.com/user-attachments/assets/81f1a6bc-ce27-4cad-91fc-81eb46208ea6)
+
 Id1=Id2=0.45ma 
 
 Iss =0.9ma 
