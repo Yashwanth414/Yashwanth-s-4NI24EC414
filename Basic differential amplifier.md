@@ -18,9 +18,9 @@ N-MOSFET(nmos4),Resistors(3.5k,0.5k,voltage source)
 A differential amplifier amplifies the difference between two input signals. It rejects common noise and is used in signal processing. It is a key part of op-amps and instrumentation
 circuits.
 
-##Types of modes
+## Types of modes
 
-*Differential mode
+*Differential mode 
 *common mode
 
 ## Working principle
