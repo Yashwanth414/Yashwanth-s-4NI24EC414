@@ -28,3 +28,26 @@ A basic differential amplifier takes two input signals and finds the difference 
 * then do transient analysis
 
 ### CIRCUIT:1
+
+
+
+### DC Analysis:
+
+
+
+### AC analysis
+
+
+
+#### CIRCUIT:2 
+
+
+### DC Analysis
+
+
+### Transient Analysis
+
+
+### AC Analysis
+
+
